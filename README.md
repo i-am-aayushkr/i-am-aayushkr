@@ -2,7 +2,7 @@
   <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&theme=cobalt"/>
 </div>
 
-<h1 align="center">Hi 👋 I'm Aayush Kr. Gupta</h1>
+<h1 align="center">Hi... I'm Aayush Kr. Gupta</h1>
 
 <br>
 
