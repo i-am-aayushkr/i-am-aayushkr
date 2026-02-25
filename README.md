@@ -15,25 +15,29 @@
 </a>
 
 <p>👨‍💻 Full Stack App Developer focused on Android, Cross-Platform React Native & Backend</p>
-<p>📫 Reach me: <a href="mailto:aayushkr.dev@gmail.com">aayushkr.dev@gmail.com</a></p>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/aayushkrgupta/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+<br> <br>
+
+<!-- Reach Me Section -->
+<h3 align="center">📬 Reach Me</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aayushkrgupta/" target="_blank" title="LinkedIn">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="LinkedIn" />
   </a>
-  <a href="mailto:aayushkr.dev@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="mailto:aayushkr.dev@gmail.com" target="_blank" title="Email">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" alt="Email" />
   </a>
-  <a href="https://x.com/aayushkr_dev" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <a href="https://x.com/aayushkr_dev" target="_blank" title="Twitter/X">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" height="40" alt="Twitter/X" />
   </a>
-  <a href="https://discord.com/users/1252004691580162191" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <a href="https://discord.com/users/1252004691580162191" target="_blank" title="Discord">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="40" alt="Discord" />
   </a>
-  <a href="https://www.instagram.com/aayush.kumar.gupta/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <a href="https://www.instagram.com/aayush.kumar.gupta/" target="_blank" title="Instagram">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="40" alt="Instagram" />
   </a>
-</div>
+</p>
 
 <br> <br>
 
