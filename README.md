@@ -106,10 +106,9 @@
 
 <br>
 
+
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=i-am-aayushkr&radius=16&theme=react&area=true&hide_border=true" height="300"/>
-
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 
