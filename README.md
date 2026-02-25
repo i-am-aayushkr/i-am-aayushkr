@@ -16,9 +16,6 @@
     <img src="https://raw.githubusercontent.com/AayushKrGupta/AayushKrGupta/main/BV%20logo.png" height="100" alt="BrancoVenn Logo" />
   </a>
 </div>
-
-<br>
-
 <!-- Reach Me Section -->
 <h2 align="center">📬 Reach Me</h2>
 
@@ -42,9 +39,7 @@
   <a href="https://www.instagram.com/aayush.kumar.gupta/" target="_blank" title="Instagram">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="40" alt="Instagram" />
   </a>
-</p>
-
-<br> <br>
+</p> <br>
 
 <div align="center">
 
