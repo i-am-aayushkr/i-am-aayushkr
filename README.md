@@ -17,7 +17,6 @@
   </a>
 </div>
 
-<!-- Reach Me Section -->
 <h2 align="center">📲 Reach Me</h2>
 
 <p align="center">
