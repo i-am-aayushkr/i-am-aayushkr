@@ -87,23 +87,19 @@
 
 <br> <br>
 
-<div align="center">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=i-am-aayushkr&label=Profile%20views&color=0e75b6&style=flat" alt="i-am-aayushkr" /> </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=i-am-aayushkr&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" height="160"/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=i-am-aayushkr" alt="i-am-aayushkr" /></a> </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=i-am-aayushkr&layout=compact&langs_count=8&theme=dracula&hide_border=true" height="160"/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=i-am-aayushkr&show_icons=true&locale=en&layout=compact" alt="i-am-aayushkr" /></p>
 
-<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=i-am-aayushkr&show_icons=true&locale=en" alt="i-am-aayushkr" /></p>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=i-am-aayushkr&theme=dracula&hide_border=true" height="160"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=i-am-aayushkr&theme=dracula&no-frame=true&row=1&column=6" height="160"/>
-
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=i-am-aayushkr&" alt="i-am-aayushkr" /></p>
 
 <br>
 
