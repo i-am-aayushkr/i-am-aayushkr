@@ -99,9 +99,7 @@
 
 <br><br>
 
-<p align="center">
-  <!-- Profile Views (dark style via color matching) -->
-  <img align="center" src="https://komarev.com/ghpvc/?username=i-am-aayushkr&label=Profile%20views&color=ffffff&style=flat" alt="i-am-aayushkr" />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=i-am-aayushkr&label=Profile%20views&color=0e75b6&style=flat" alt="i-am-aayushkr" /> </p>
 
   <br>
 
