@@ -127,6 +127,11 @@
 
 <br>
 
+![GitHub Stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=i-am-aayushkr)
+![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=i-am-aayushkr&type=languages)
+![Contributions](https://git-hub-stats-card-generator.vercel.app/api/svg?username=i-am-aayushkr&type=contributions)
+![Top Repos](https://git-hub-stats-card-generator.vercel.app/api/svg?username=i-am-aayushkr&type=top-repos)
+
 <div align="center">
   ✨ Building amazing things and learning every day 🚀
 </div>
