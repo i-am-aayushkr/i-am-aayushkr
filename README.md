@@ -16,7 +16,7 @@
 
 <p>👨‍💻 Full Stack App Developer focused on Android, Cross-Platform React Native & Backend</p>
 
-<br> <br>
+<br>
 
 <!-- Reach Me Section -->
 <h3 align="center">📬 Reach Me</h3>
@@ -25,15 +25,19 @@
   <a href="https://www.linkedin.com/in/aayushkrgupta/" target="_blank" title="LinkedIn">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:aayushkr.dev@gmail.com" target="_blank" title="Email">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" alt="Email" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://x.com/aayushkr_dev" target="_blank" title="Twitter/X">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" height="40" alt="Twitter/X" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://discord.com/users/1252004691580162191" target="_blank" title="Discord">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="40" alt="Discord" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/aayush.kumar.gupta/" target="_blank" title="Instagram">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="40" alt="Instagram" />
   </a>
