@@ -134,16 +134,10 @@
 <td>
 
 <!-- GitHub Stats WITHOUT rank -->
-<img src="https://github-readme-stats-fast.vercel.app/api?username=aayushkrgupta&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&rank_icon=none" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=aayushkrgupta&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&rank_icon=github" />
 
 </td>
 
-<td align="center">
-
-<!-- GitHub Logo Instead of Grade -->
-<img width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-
-</td>
 
 <td>
 
