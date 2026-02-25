@@ -127,7 +127,7 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aayushkrgupta&layout=compact)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aayushkrgupta&layout=donut-vertical)](https://github.com/aayushkrgupta/github-readme-stats)
 
 <div align="center">
   ✨ Building amazing things and learning every day 🚀
