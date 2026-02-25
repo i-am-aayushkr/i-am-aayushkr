@@ -101,13 +101,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=i-am-aayushkr&label=Profile%20views&color=0e75b6&style=flat" alt="i-am-aayushkr" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=i-am-aayushkr" alt="i-am-aayushkr" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=i-am-aayushkr&show_icons=true&locale=en&layout=compact" alt="i-am-aayushkr" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=i-am-aayushkr&show_icons=true&locale=en" alt="i-am-aayushkr" /></p>
 
