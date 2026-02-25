@@ -17,18 +17,12 @@
 <p>👨‍💻 Full Stack App Developer focused on Android, Cross-Platform React Native & Backend</p>
 <p>📫 Reach me: <a href="mailto:aayushkr.dev@gmail.com">aayushkr.dev@gmail.com</a></p>
 
-<a href="https://www.linkedin.com/in/aayushkrgupta/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://x.com/aayushkr_dev">
-<img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
-
-<a href="https://discord.com/users/1252004691580162191">
-<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
 </div>
 
 <br> <br>
