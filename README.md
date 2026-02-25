@@ -21,7 +21,7 @@
 
 <br>
 
-<h2 align="center">📲 Reach Me</h2>
+<h3 align="center">📲 Reach Me</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/aayushkrgupta/" target="_blank">
