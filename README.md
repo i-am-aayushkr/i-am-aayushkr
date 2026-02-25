@@ -17,7 +17,7 @@
 <p>👨‍💻 Full Stack App Developer focused on Android, Cross-Platform React Native & Backend</p>
 <p>📫 Reach me: <a href="mailto:aayushkr.dev@gmail.com">aayushkr.dev@gmail.com</a></p>
 
-<div align="left">
+<div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
