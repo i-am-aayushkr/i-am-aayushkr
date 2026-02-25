@@ -97,20 +97,17 @@
 
 </div>
 
-<br> <br>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=i-am-aayushkr&label=Profile%20views&color=0e75b6&style=flat" alt="i-am-aayushkr" /> </p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=i-am-aayushkr&" alt="i-am-aayushkr" /></p>
-
 <br>
 
+<p align="center">
+  <!-- Profile Views (dark style via color matching) -->
+  <img align="center" src="https://komarev.com/ghpvc/?username=i-am-aayushkr&label=Profile%20views&color=ffffff&style=flat" alt="i-am-aayushkr" />
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+  <br><br>
 
+  <!-- GitHub Streak Stats (dark) -->
+  <img align="center" src="https://streak-stats.demolab.com?user=i-am-aayushkr&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+</p>
 
 <br>
 
