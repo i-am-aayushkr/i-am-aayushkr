@@ -20,7 +20,7 @@
 <br>
 
 <!-- Reach Me Section -->
-<h4 align="center">📬 Reach Me</h4>
+<h2 align="center">📬 Reach Me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aayushkrgupta/" target="_blank" title="LinkedIn">
