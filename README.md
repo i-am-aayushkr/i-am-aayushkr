@@ -127,7 +127,26 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aayushkrgupta&layout=donut-vertical&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/aayushkrgupta/github-readme-stats)
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats-fast.vercel.app/api?username=aayushkrgupta&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" />
+
+</td>
+<td>
+
+<!-- Top Languages Donut -->
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aayushkrgupta&layout=donut-vertical&theme=react&hide_border=true&bg_color=0D1117" />
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <div align="center">
   ✨ Building amazing things and learning every day 🚀
