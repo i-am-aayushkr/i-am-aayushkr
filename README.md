@@ -108,14 +108,14 @@
 
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=i-am-aayushkr&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=aayushkrgupta&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 <br>
 
 <!-- GitHub Streak -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=i-am-aayushkr&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=aayushkrgupta&theme=dark&hide_border=true" />
 </div>
 
 <br>
@@ -127,10 +127,7 @@
 
 <br>
 
-![GitHub Stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=i-am-aayushkr)
-![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=i-am-aayushkr&type=languages)
-![Contributions](https://git-hub-stats-card-generator.vercel.app/api/svg?username=i-am-aayushkr&type=contributions)
-![Top Repos](https://git-hub-stats-card-generator.vercel.app/api/svg?username=i-am-aayushkr&type=top-repos)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aayushkrgupta&layout=compact)
 
 <div align="center">
   ✨ Building amazing things and learning every day 🚀
