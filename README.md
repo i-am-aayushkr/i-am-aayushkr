@@ -151,5 +151,6 @@
 </div>
 
 <div align="center">
-  ✨ Building amazing things and learning every day 🚀
+  <i>"The biggest risk is not taking any risk."</i><br>
+  — Mark Zuckerberg
 </div>
