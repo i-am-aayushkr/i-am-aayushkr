@@ -1,20 +1,21 @@
+<!-- Header Banner -->
 <div align="center">
-  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&theme=cobalt"/>
+  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&theme=cobalt" alt="header wave" />
 </div>
 
-<h1 align="center">Hi... I'm Aayush Kr. Gupta</h1>
+<!-- Main Name and Tagline -->
+<h1 align="center">👋 Hi, I'm Aayush Kr. Gupta</h1>
+<p align="center">
+  <strong>Founder @ <a href="https://brancovenn.com" target="_blank">BrancoVenn</a></strong> — building impactful apps & backend systems  
+  🌐 Full Stack App Developer (Android, React Native, Backend)
+</p>
 
-<br>
-
+<!-- Company / Portfolio Logo -->
 <div align="center">
-
-<h3> Founder @BrancoVenn</h3>
-
-<a href="https://brancovenn.com">
-<img src="https://raw.githubusercontent.com/AayushKrGupta/AayushKrGupta/main/BV%20logo.png" height="80"/>
-</a>
-
-<p>👨‍💻 Full Stack App Developer focused on Android, Cross-Platform React Native & Backend</p>
+  <a href="https://brancovenn.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/AayushKrGupta/AayushKrGupta/main/BV%20logo.png" height="100" alt="BrancoVenn Logo" />
+  </a>
+</div>
 
 <br>
 
