@@ -97,17 +97,25 @@
 
 </div>
 
-<br>
+<br><br>
 
 <p align="center">
   <!-- Profile Views (dark style via color matching) -->
   <img align="center" src="https://komarev.com/ghpvc/?username=i-am-aayushkr&label=Profile%20views&color=ffffff&style=flat" alt="i-am-aayushkr" />
 
-  <br><br>
+  <br>
 
   <!-- GitHub Streak Stats (dark) -->
   <img align="center" src="https://streak-stats.demolab.com?user=i-am-aayushkr&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
 </p>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aayushkrgupta&radius=16&theme=react&area=true&hide_border=true" height="300"/>
+
+</div>
 
 <br>
 
