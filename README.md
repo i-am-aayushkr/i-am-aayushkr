@@ -105,6 +105,5 @@
 </p>
 
 <div align="center">
-  <i>"The biggest risk is not taking any risk."</i><br>
-  — Mark Zuckerberg
+  <strong>Code • Build • Scale</strong>
 </div>
