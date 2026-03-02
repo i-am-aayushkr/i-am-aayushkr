@@ -105,5 +105,12 @@
 </p>
 
 <div align="center">
-  <strong>Code • Build • Scale</strong>
+  <h3>
+    <span style="background: linear-gradient(90deg, #4F46E5, #06B6D4, #9333EA);
+                 -webkit-background-clip: text;
+                 -webkit-text-fill-color: transparent;
+                 font-weight: 600;">
+      Engineering scalable systems. Building products that matter.
+    </span>
+  </h3>
 </div>
