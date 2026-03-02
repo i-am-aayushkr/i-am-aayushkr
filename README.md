@@ -105,5 +105,5 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&duration=4000&pause=2000&color=58A6FF&center=true&vCenter=true&width=700&lines=Engineering+scalable+systems.;Building+products+that+matter." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=4000&pause=2000&color=58A6FF&center=true&vCenter=true&width=700&lines=Engineering+scalable+systems.;Building+products+that+matter." />
 </div>
