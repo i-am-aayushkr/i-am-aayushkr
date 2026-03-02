@@ -105,12 +105,5 @@
 </p>
 
 <div align="center">
-  <h3>
-    <span style="background: linear-gradient(90deg, #4F46E5, #06B6D4, #9333EA);
-                 -webkit-background-clip: text;
-                 -webkit-text-fill-color: transparent;
-                 font-weight: 600;">
-      Engineering scalable systems. Building products that matter.
-    </span>
-  </h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&duration=4000&pause=2000&color=58A6FF&center=true&vCenter=true&width=700&lines=Engineering+scalable+systems.;Building+products+that+matter." />
 </div>
