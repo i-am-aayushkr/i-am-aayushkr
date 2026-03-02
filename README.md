@@ -84,7 +84,7 @@
 <tr>
 <td>
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=aayushkrgupta&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=aayushkrgupta&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&rank_icon=github" />
 
 </td>
 
