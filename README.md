@@ -68,8 +68,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=aayushkrgupta&theme=react&hide_border=true" />
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aayushkrgupta&theme=tokyonight" alt="mystreak"/>
 <br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aayushkrgupta&radius=16&theme=react&area=true&hide_border=true" height="300"/>
