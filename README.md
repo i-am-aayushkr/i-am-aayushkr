@@ -68,7 +68,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aayushkrgupta&theme=tokyonight" alt="mystreak"/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=aayushkrgupta)](https://git.io/streak-stats)
 <br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aayushkrgupta&radius=16&theme=react&area=true&hide_border=true" height="300"/>
@@ -106,3 +106,5 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Engineering+scalable+systems.;Building+products+that+matter." />
 </div>
+
+https://pixel-profile.vercel.app/api/github-stats?username=<username>&theme=rainbow&pixelate_avatar=false
