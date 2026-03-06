@@ -68,7 +68,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=aayushkrgupta)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=aayushkrgupta&theme=highcontrast" alt="GitHub Streak" /></a>
 <br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aayushkrgupta&radius=16&theme=react&area=true&hide_border=true" height="300"/>
