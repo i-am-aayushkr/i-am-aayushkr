@@ -68,11 +68,11 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=i-am-aayushkr&theme=react&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=aayushkrgupta&theme=react&hide_border=true" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=i-am-aayushkr&radius=16&theme=react&area=true&hide_border=true" height="300"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aayushkrgupta&radius=16&theme=react&area=true&hide_border=true" height="300"/>
 
 </div>
 
@@ -84,13 +84,13 @@
 <tr>
 <td>
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=i-am-aayushkr&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&rank_icon=github" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=aayushkrgupta&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&rank_icon=github" />
 
 </td>
 
 <td>
 
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=i-am-aayushkr&layout=donut-vertical&theme=react&hide_border=true&bg_color=0D1117" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aayushkrgupta&layout=donut-vertical&theme=react&hide_border=true&bg_color=0D1117" />
 
 </td>
 </tr>
