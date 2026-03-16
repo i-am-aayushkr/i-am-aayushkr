@@ -2,15 +2,17 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=160&text=Hi%2C%20I'm%20Aayush%20Kr.%20Gupta&fontSize=36&fontAlign=50&fontAlignY=45&color=gradient"/>
 </div>
 
-<p align="center">
-  <h3 align="center">
-  <strong>Founder @<a href="https://brancovenn.com" target="_blank">BrancoVenn</a></strong>
+<div align="center">
+
+<h3>
+<strong>Founder @<a href="https://brancovenn.com" target="_blank">BrancoVenn</a></strong>
 </h3>
-<br>
-  Building impactful apps & backend systems<br>
-  👨‍💻 Full Stack App Developer (Android, React Native, Backend)<br>
-  🌍 Active Open-Source Contributor
-</p>
+
+Building impactful apps & backend systems<br>
+👨‍💻 Full Stack App Developer (Android, React Native, Backend)<br>
+🌍 Active Open-Source Contributor
+
+</div>
 
 <h3 align="center">📲 Reach Me</h3>
 
