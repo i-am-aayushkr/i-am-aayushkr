@@ -10,7 +10,7 @@
 
 Building impactful apps & backend systems<br>
 👨‍💻 Full Stack App Developer (Android, React Native, Backend)<br>
-🌍 Active Open-Source Contributor
+🧩 Active Open-Source Contributor
 
 </div>
 
