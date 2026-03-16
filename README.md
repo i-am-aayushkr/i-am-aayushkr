@@ -2,9 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=120&text=Hi%20I'm%20Aayush%20Kr.%20Gupta&fontSize=40&color=0:4f46e5,100:06b6d4&fontColor=ffffff"/>
 </div>
 
-<!-- Main Name and Tagline -->
-<h1 align="center">👋 Hi, I'm Aayush Kr. Gupta</h1>
-
 <p align="center">
   <strong>Founder @<a href="https://brancovenn.com" target="_blank">BrancoVenn</a></strong><br><br>
   Building impactful apps & backend systems<br>
