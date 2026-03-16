@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=curve&height=120&text=Aayush%20Kr.%20Gupta&fontAlign=50&fontAlignY=35&color=0:3b82f6,100:9333ea&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&text=Hi%20I'm%20Aayush%20Kr.%20Gupta&fontSize=40&color=0:4f46e5,100:06b6d4&fontColor=ffffff"/>
 </div>
 
 <!-- Main Name and Tagline -->
