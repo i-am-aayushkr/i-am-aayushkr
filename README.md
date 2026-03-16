@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <h3>
+  <h3 align="center">
   <strong>Founder @<a href="https://brancovenn.com" target="_blank">BrancoVenn</a></strong>
 </h3>
 <br>
