@@ -7,7 +7,7 @@
 <h1 align="center">👋 Hi, I'm Aayush Kr. Gupta</h1>
 
 <p align="center">
-  <strong>Founder @<a href="https://brancovenn.com" target="_blank">BrancoVenn</a></strong><br>
+  <strong>Founder @<a href="https://brancovenn.com" target="_blank">BrancoVenn</a></strong><br><br>
   Building impactful apps & backend systems<br>
   👨‍💻 Full Stack App Developer (Android, React Native, Backend)<br>
   🌍 Active Open-Source Contributor
