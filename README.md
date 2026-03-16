@@ -3,7 +3,10 @@
 </div>
 
 <p align="center">
-  <strong>Founder @<a href="https://brancovenn.com" target="_blank">BrancoVenn</a></strong><br><br>
+  <h3>
+  <strong>Founder @<a href="https://brancovenn.com" target="_blank">BrancoVenn</a></strong>
+</h3>
+<br>
   Building impactful apps & backend systems<br>
   👨‍💻 Full Stack App Developer (Android, React Native, Backend)<br>
   🌍 Active Open-Source Contributor
