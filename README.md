@@ -10,6 +10,7 @@
   <strong>Founder @<a href="https://brancovenn.com" target="_blank">BrancoVenn</a></strong><br>
   Building impactful apps & backend systems<br>
   👨‍💻 Full Stack App Developer (Android, React Native, Backend)
+  
   🌍 Active Open-Source Contributor
 </p>
 
