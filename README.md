@@ -1,6 +1,5 @@
-<!-- Header Banner -->
 <div align="center">
-  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&theme=cobalt" alt="header wave" />
+  <img src="https://capsule-render.vercel.app/api?type=curve&height=120&text=Aayush%20Kr.%20Gupta&fontAlign=50&fontAlignY=35&color=0:3b82f6,100:9333ea&fontColor=ffffff"/>
 </div>
 
 <!-- Main Name and Tagline -->
