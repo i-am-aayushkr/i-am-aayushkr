@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=35&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi,%2C+I'm+Aayush+Kr.+Gupta;Founder+%40+BrancoVenn;Full+Stack+Developer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&text=Aayush%20Kr.%20Gupta&fontSize=40&color=0:3b82f6,100:9333ea&fontColor=ffffff"/>
 </div>
 
 <p align="center">
