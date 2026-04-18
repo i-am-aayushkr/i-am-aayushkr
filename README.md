@@ -16,43 +16,23 @@ Building impactful apps & backend systems<br>
 
 <h3 align="center">📲 Reach Me</h3>
 
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://www.linkedin.com/in/aayushkrgupta/" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45"/>
-      </a>
-    </td>
-    <td width="20"></td>
-
-    <td>
-      <a href="mailto:aayushkr.dev@gmail.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45"/>
-      </a>
-    </td>
-    <td width="20"></td>
-
-    <td>
-      <a href="https://x.com/aayushkr_dev" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="45"/>
-      </a>
-    </td>
-    <td width="20"></td>
-
-    <td>
-      <a href="https://discord.com/users/1252004691580162191" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="45"/>
-      </a>
-    </td>
-    <td width="20"></td>
-
-    <td>
-      <a href="https://www.instagram.com/aayush.kumar.gupta/" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://www.linkedin.com/in/aayushkrgupta/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" style="margin: 0 10px;"/>
+  </a>
+  <a href="mailto:aayushkr.dev@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" style="margin: 0 10px;"/>
+  </a>
+  <a href="https://x.com/aayushkr_dev" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="45" style="margin: 0 10px;"/>
+  </a>
+  <a href="https://discord.com/users/1252004691580162191" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="45" style="margin: 0 10px;"/>
+  </a>
+  <a href="https://www.instagram.com/aayush.kumar.gupta/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" style="margin: 0 10px;"/>
+  </a>
+</p>
 
 <br>
 
