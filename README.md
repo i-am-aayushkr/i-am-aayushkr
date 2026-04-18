@@ -18,19 +18,27 @@ Building impactful apps & backend systems<br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aayushkrgupta/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" style="margin: 0 10px;"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
+
   <a href="mailto:aayushkr.dev@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" style="margin: 0 10px;"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
+
   <a href="https://x.com/aayushkr_dev" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="45" style="margin: 0 10px;"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="45"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
+
   <a href="https://discord.com/users/1252004691580162191" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="45" style="margin: 0 10px;"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="45"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
+
   <a href="https://www.instagram.com/aayush.kumar.gupta/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" style="margin: 0 10px;"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45"/>
   </a>
 </p>
 
